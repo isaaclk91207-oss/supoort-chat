@@ -39,7 +39,7 @@ cp .env.example .env
 
 4. Run the application:
 ```bash
-python aUto-reply-server.py
+python auto-reply-server.py
 ```
 
 The API will be available at `http://localhost:7860`
